@@ -132,6 +132,3 @@ This approach ensures:
 - Mathematical modeling of curves
 - Color interpolation and shader-based effects
 
-
-The RGB color is computed from the hue using cosine-based interpolation:
-
